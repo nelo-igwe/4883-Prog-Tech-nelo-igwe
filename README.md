@@ -11,4 +11,4 @@
 
 #### Avatar:
 
-<img src="/https://raw.githubusercontent.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/main/my%20avatar.webp" width="75">
+<img src="https://raw.githubusercontent.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/main/MY%20AVATAR.jpg" width="75">
