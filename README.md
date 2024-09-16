@@ -7,7 +7,7 @@
 
 #### Image:
 
-<img src="/" width="200">
+<img src="https://raw.githubusercontent.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/main/IMG_5580.jpg" width="200">
 
 #### Avatar:
 
