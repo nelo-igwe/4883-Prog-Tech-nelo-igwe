@@ -5,6 +5,7 @@
 
 ### Player Class
 #### Username
+#### Password
 #### Player score 
 #### Roll_history 
 #### Display_roll_history
