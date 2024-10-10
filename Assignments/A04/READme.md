@@ -1,5 +1,4 @@
-# ASSIGNNMENT 4 
-## OOP TERMS AND DEFINITIONS
+# ASSIGNNMENT 4 : OOP TERMS AND DEFINITIONS
 
 ## Derived class
 #### A class that inherits properties and behaviors from another class (the base class).
