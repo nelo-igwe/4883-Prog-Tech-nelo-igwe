@@ -48,4 +48,73 @@
 ## Self assignment
 #### A situation where an object is assigned to itself, which can cause issues if not properly handled in the assignment operator.
 
+## Classes
+#### Blueprints for creating objects in OOP, defining their attributes and behaviors through methods and variables.
+
+## Objects 
+#### Instances of a class, representing individual entities with specific attributes and methods.
+
+## Iterators
+#### Objects that enable traversing through elements of a collection or data structure sequentially.
+
+## Design Patterns
+#### Reusable solutions to common software design problems, providing best practices for organizing code.
+
+## Inheritance
+#### Mechanism where a class derives properties and behaviors from a parent class.
+
+## Polymorphism 
+#### Ability for different classes to be treated as instances of the same class through a common interface, often via method overriding.
+
+## Abstraction 
+#### Hiding implementation details while exposing only essential functionalities to reduce complexity
+
+## Class variables
+#### Variables shared among all instances of a class, defined with the static keyword in many languages.
+
+## Method overloading
+#### Defining multiple methods with the same name but different parameter lists within the same class.
+
+## UML 
+#### Unified Modeling Language, a visual representation used to model the structure and behavior of software systems. 
+
+## Composition 
+####  A design principle where a class contains objects of other classes to model a "has-a" relationship.
+
+## Package Manager
+#### A tool that automates the process of installing, updating, and managing software packages (e.g., libraries).
+
+## Vectors
+#### Dynamic arrays that can resize automatically and store elements contiguously in memory.
+
+## Maps
+#### Data structures that store key-value pairs, allowing for efficient lookups based on keys.
+
+## Virtual inheritance
+#### A form of inheritance that solves problems in multiple inheritance by ensuring only one instance of a base class is inherited.
+
+## Diamond Problem
+#### A multiple inheritance issue where two classes inherit from the same base class, leading to ambiguity in inheritance.
+
+## Ambiguity
+#### Confusion in code, often arising in multiple inheritance, when a class has multiple inherited methods with the same signature.
+
+## Shallow copy
+#### A copy of an object where references to the original object's members are copied, not the objects themselves.
+
+## Deep copy
+#### A full copy of an object, including copies of all objects referenced by the original.
+
+## Friend keyword
+#### In C++, it allows a non-member function or another class to access the private members of a class.
+
+## Instance
+#### A specific realization of a class, created using the class blueprint.
+
+## Assignment operator
+#### Used to assign values from one object to another, often requiring custom implementation for deep copies.
+
+
+
+
 
