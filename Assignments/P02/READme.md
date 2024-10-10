@@ -9,7 +9,7 @@
 #### Roll_history 
 #### Display_roll_history
 #### Roll_dice
-#### Reset()
+#### Reset( )
 
 ### Game Class
 #### Players
@@ -17,7 +17,7 @@
 #### Dice_per_roll 
 #### Player_turn
 #### Check_winner 
-#### Start()
+#### Start( )
 #### Reset_game
 #### Display_scores 
 
