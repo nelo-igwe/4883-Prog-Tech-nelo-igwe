@@ -3,7 +3,7 @@
 
 # P02B
 
-### Player Class
+## Player Class
 #### Username
 #### Password
 #### Player score 
@@ -12,7 +12,7 @@
 #### Roll_dice
 #### Reset( )
 
-### Game Class
+## Game Class
 #### Players
 #### Player rounds
 #### Dice_per_roll 
