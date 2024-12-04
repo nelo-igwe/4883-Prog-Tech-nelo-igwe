@@ -7,6 +7,6 @@
 |  5  | [A05](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/tree/main/A05)| WSL installation | 
 |  6  | P01  | Fraction Class |
 |  7  | [P02](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/tree/main/Assignments/P02) |Program that has an example of ncurses . Dice outline |
-|  8  | P03  |Knuckle bones with SFML 
+|  8  | [P03](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/tree/main/SFML%20KNUCKLE%20BONES%20) | Knuckle bones with SFML 
 
 
