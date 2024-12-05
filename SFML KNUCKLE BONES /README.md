@@ -11,7 +11,7 @@
 |  4  |[Capturing and Handling User Input](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/Capturing%26HandlingUserInput.cpp)||
 |  5  |[Animations in SFML](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/AnimationsInSFML.cpp)||
 |  6  |[Drawing the Game Grid](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingTheGameGrid.cpp)||
-|  7  |[Handling Game Stats]()||
+|  7  |[Handling Game Stats](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/HandlingGameStats.cpp)||
 |  8  |[User Text Input]()||
 |  9  |[]()||
 | 10  |[]()||
