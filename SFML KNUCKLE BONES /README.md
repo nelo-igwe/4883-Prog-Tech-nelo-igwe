@@ -7,7 +7,7 @@
 |:---:| -------| --------------------|
 |  1  |[Main.cpp](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/test.cpp)||
 |  2  |[Setting Up the Game](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/gameWindow.cpp)||
-|  3  |[]()||
+|  3  |[Drawign Shapes and Texture](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingShapes.cpp)||
 |  4  |[]()||
 |  5  |[]()||
 |  6  |[]()||
