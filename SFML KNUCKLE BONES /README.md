@@ -7,7 +7,7 @@
 |:---:| -------| --------------------|
 |  1  |[Main.cpp](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/test.cpp)|This code initializes an SFML window titled "Knucklebones Game," sets up a game loop for handling events, and clears the window with a black color each frame.|
 |  2  |[Setting Up the Game](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/gameWindow.cpp)|This code creates an SFML window, handles input, and displays a black background.|
-|  3  |[Drawign Shapes and Texture](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingShapes.cpp)||
+|  3  |[Drawign Shapes and Texture](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingShapes.cpp)|This code creates an SFML window, draws a blue rectangle, a green circle, and a textured sprite, and displays them on a white background.|
 |  4  |[Capturing and Handling User Input](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/Capturing%26HandlingUserInput.cpp)||
 |  5  |[Animations in SFML](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/AnimationsInSFML.cpp)||
 |  6  |[Drawing the Game Grid](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingTheGameGrid.cpp)||
