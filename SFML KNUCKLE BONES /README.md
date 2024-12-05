@@ -6,7 +6,7 @@
 | #  | File    |    Description   |
 |:---:| -------| --------------------|
 |  1  |[Main.cpp](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/test.cpp)||
-|  2  |[]()||
+|  2  |[Setting Up the Game](https://github.com/rugbyprof/2143-Object-Oriented-Programming/tree/master/Resources/05-SFML/code/Lesson_01)||
 |  3  |[]()||
 |  4  |[]()||
 |  5  |[]()||
