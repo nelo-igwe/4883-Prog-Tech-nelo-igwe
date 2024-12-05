@@ -10,7 +10,7 @@
 |  3  |[Drawign Shapes and Texture](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingShapes.cpp)||
 |  4  |[Capturing and Handling User Input](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/Capturing%26HandlingUserInput.cpp)||
 |  5  |[Animations in SFML](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/AnimationsInSFML.cpp)||
-|  6  |[Drawing the Game Grid]()||
+|  6  |[Drawing the Game Grid](https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/SFML%20KNUCKLE%20BONES%20/DrawingTheGameGrid.cpp)||
 |  7  |[Handling Game Stats]()||
 |  8  |[User Text Input]()||
 |  9  |[]()||
