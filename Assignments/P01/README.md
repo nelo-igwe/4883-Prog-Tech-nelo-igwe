@@ -5,7 +5,7 @@
 ### FILES 
 |  #  |  File | Description |
 | :--:| ----- | ------------|
-|  1  |[main.cpp] () 
+|  1  |[main.cpp] (https://github.com/nelo-igwe/4883-Prog-Tech-nelo-igwe/blob/main/Assignments/P01/main.cpp) 
 
 ### Instructions
 -This program does mot require any standard libs 
